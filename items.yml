@@ -1,0 +1,11 @@
+items:
+        short_sword:
+                name: "Short Sword"
+                damage: 10
+                cost: 10
+        short_bow:
+                name: "Short Sword"
+                damage: 10
+                range: 10
+                cost: 10
+
