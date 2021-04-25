@@ -8,4 +8,8 @@ items:
                 damage: 10
                 range: 10
                 cost: 10
-
+        longsword:
+                name: "Long Sword"
+                damage: 15
+                range: 2
+                cost: 15
