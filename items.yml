@@ -13,3 +13,8 @@ items:
                 damage: 15
                 range: 2
                 cost: 15
+        dagger:
+                name: "Dagger"
+                damage: 5
+                strikes: 2
+                cost: 10
